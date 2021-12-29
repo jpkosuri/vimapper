@@ -1,12 +1,12 @@
-### Visually map source and destination json/xml and generate mapper, source and destination pojos.
-### Source
+### Visually map from and to json/xml and generate mapper, source and destination pojos.
+### from
 > { userName : "John", userID: "123"} 
-### Destination
+### to
 > { customerName : "John", customerID: "123"} 
 
 ### Output
 ```
 Mapper.java
-SrcPojo.java
-DestPojo.java
+From.java
+To.java
 ```
