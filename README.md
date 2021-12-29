@@ -5,6 +5,8 @@
 > { customerName : "John", customerID: "123"} 
 
 ### Output
-> Mapper.java
-> SrcPojo.java
-> DestPojo.java
+```
+Mapper.java
+SrcPojo.java
+DestPojo.java
+```
