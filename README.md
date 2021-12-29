@@ -1,4 +1,4 @@
-### Visually map and transfrom one json/xml to another json/xml format. And, generate mappers, source and destination pojos.
+### Visually map and transfrom one(source) json/xml/yaml to another(destination). And, generate mappers, source and destination pojos.
 
 ### from
 
